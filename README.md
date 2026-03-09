@@ -1,5 +1,7 @@
 
 # Lalith Krishna Portfolio Website
 
-Live Website:
-https://d1bfiq00ph1ld0.cloudfront.net
+🚀 Hosted using AWS S3 Static Website Hosting
+
+🔗 Live Website:
+http://lalith-portfolio-website.s3-website.eu-north-1.amazonaws.com
