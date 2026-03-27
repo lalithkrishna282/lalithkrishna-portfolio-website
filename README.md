@@ -5,3 +5,5 @@
 
 🔗 Live Website:
 http://lalith-portfolio-website.s3-website.eu-north-1.amazonaws.com
+
+Updated CI pipeline
